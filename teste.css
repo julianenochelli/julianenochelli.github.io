@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000; /* Fundo preto */
+    margin: 0;
+    padding: 20px;
+    color: white; /* Cor do texto */
+}
+h1 {
+    text-align: center; /* Centraliza o título */
+    font-size: 2.5em; /* Tamanho do título */
+    margin-bottom: 30px; /* Espaço abaixo do título */
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5); /* Sombra no texto */
+}
+.foto {
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.1); /* Fundo semi-transparente para as fotos */
+    border-radius: 10px; /* Bordas arredondadas */
+    padding: 15px; /* Espaçamento interno */
+}
+img {
+    max-width: 30%; /* Aumenta o tamanho de todas as imagens para 30% */
+    height: auto;
+    border-radius: 10px;
+}
+.texto {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
